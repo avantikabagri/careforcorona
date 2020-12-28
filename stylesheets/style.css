@@ -232,6 +232,12 @@ nav .current{
 	justify-content: flex-end;
 }
 
+.giftcard_button img{
+	height: auto;
+	width: 70px;
+	justify-content: flex-end;
+}
+
 #foot{
   background-color: #212D40;
   color: #FBFBF4;
