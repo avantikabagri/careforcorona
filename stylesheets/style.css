@@ -189,7 +189,7 @@ nav .current{
 
 .business_box{
 	grid-column: 2;
-	height: 120px;
+	height: 160px;
 	width: 350px;
 	background-color: #B5E2FA;
 	display: flex;
@@ -222,8 +222,14 @@ nav .current{
 .gofundme_button img{
 	height: auto;
 	width: 110px;
-	justify-content: flex-end;
+	float: left;
 
+}
+
+.giftcard_button img{
+	height: auto;
+	width: 70px;
+	justify-content: flex-end;
 }
 
 #foot{
