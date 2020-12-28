@@ -190,7 +190,7 @@ nav .current{
 
 .business_box{
 	grid-column: 2;
-	height: 170px;
+	height: 120px;
 	width: 350px;
 	background-color: #B5E2FA;
 	display: flex;
