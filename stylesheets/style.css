@@ -222,7 +222,7 @@ nav .current{
 .gofundme_button img{
 	height: auto;
 	width: 110px;
-	float: left;
+	justify-content: flex-end;
 
 }
 
