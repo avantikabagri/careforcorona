@@ -43,6 +43,7 @@ header h2 a:hover{
 a:link{
 	text-decoration: none;
 }
+
 .skip a{
   background: white;
 	color: purple;
@@ -189,7 +190,7 @@ nav .current{
 
 .business_box{
 	grid-column: 2;
-	height: 160px;
+	height: 170px;
 	width: 350px;
 	background-color: #B5E2FA;
 	display: flex;
